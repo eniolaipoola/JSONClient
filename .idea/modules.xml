@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/JSONClient.iml" filepath="$PROJECT_DIR$/JSONClient.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/TaskJSON.iml" filepath="$PROJECT_DIR$/TaskJSON.iml" />
+>>>>>>> 264cd2369936d9ede48b8f6b8bf73e6dfb1c8567
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

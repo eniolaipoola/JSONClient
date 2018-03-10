@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+=======
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> 264cd2369936d9ede48b8f6b8bf73e6dfb1c8567
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
+<<<<<<< HEAD
     tools:context="com.example.ehnyn.taskjson.Activities.PostActivity"
     tools:showIn="@layout/activity_post">
 
     <TextView
         android:id="@+id/btnPostRequest"
+=======
+    tools:context="com.example.ehnyn.taskjson.PostActivity"
+    tools:showIn="@layout/activity_post">
+
+    <TextView
+        android:id="@+id/btnPost"
+>>>>>>> 264cd2369936d9ede48b8f6b8bf73e6dfb1c8567
         android:layout_gravity="center"
         android:layout_width="150dp"
         android:layout_height="50dp"
         android:text="Hello Post Activity" />
 
+<<<<<<< HEAD
     <LinearLayout
         android:id="@+id/llMain"
         android:layout_width="wrap_content"
@@ -55,3 +68,6 @@
 
     </LinearLayout>
 </RelativeLayout>
+=======
+</android.support.constraint.ConstraintLayout>
+>>>>>>> 264cd2369936d9ede48b8f6b8bf73e6dfb1c8567

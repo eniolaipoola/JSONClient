@@ -4,7 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context="com.example.ehnyn.taskjson.Activities.PostActivity">
+=======
+    tools:context="com.example.ehnyn.taskjson.PostActivity">
+>>>>>>> 264cd2369936d9ede48b8f6b8bf73e6dfb1c8567
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

@@ -2,16 +2,26 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ehnyn.taskjson">
 
+<<<<<<< HEAD
     <uses-permission
         android:name="android.permission.INTERNET" />
 
+=======
+>>>>>>> 264cd2369936d9ede48b8f6b8bf73e6dfb1c8567
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+<<<<<<< HEAD
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Activities.MainActivity">
+=======
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+>>>>>>> 264cd2369936d9ede48b8f6b8bf73e6dfb1c8567
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -19,10 +29,17 @@
             </intent-filter>
         </activity>
         <activity
+<<<<<<< HEAD
             android:name=".Activities.PostActivity"
             android:label="@string/title_activity_post"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Activities.CommentActivity"></activity>
+=======
+            android:name=".PostActivity"
+            android:label="@string/title_activity_post"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".CommentActivity"></activity>
+>>>>>>> 264cd2369936d9ede48b8f6b8bf73e6dfb1c8567
     </application>
 
 </manifest>

@@ -5,7 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
+<<<<<<< HEAD
     tools:context="com.example.ehnyn.taskjson.Activities.MainActivity">
+=======
+    tools:context="com.example.ehnyn.taskjson.MainActivity">
+>>>>>>> 264cd2369936d9ede48b8f6b8bf73e6dfb1c8567
 
     <LinearLayout
         android:id="@+id/llMain"
