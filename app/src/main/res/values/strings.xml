@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskJSON</string>
+    <string name="title_activity_post">PostActivity</string>
+
+    <string name="post">POST</string>
+    <string name="comment">COMMENT</string>
+</resources>
