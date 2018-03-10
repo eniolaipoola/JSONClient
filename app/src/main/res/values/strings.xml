@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaskJSON</string>
+    <string name="title_activity_post">PostActivity</string>
+
+    <string name="post">POST</string>
+    <string name="comment">COMMENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="postEndpoint">POST Endpoint</string>
+    <string name="getENDPOINT">GET Endpoint</string>
+    <string name="putEndpoint">PUT Endpoint</string>
+    <string name="deleteENDPOINT">Delete Endpoint</string>
+</resources>
